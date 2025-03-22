@@ -1,3 +1,4 @@
+
 let gameSeq = [];
 let userSeq = [];
 let maxScore = 0;
